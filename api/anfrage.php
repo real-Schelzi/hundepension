@@ -20,6 +20,11 @@ if (($_SERVER['REQUEST_METHOD'] ?? '') !== 'POST') {
 }
 
 $config = require __DIR__ . '/config.php';
+$lokal = __DIR__ . '/config.local.php'; // serverspezifisch, nicht im Git (wird von deploy/mail-setup.sh angelegt)
+if (is_file($lokal)) {
+    $config = array_merge($config, require $lokal);
+}
+date_default_timezone_set('Europe/Zurich');
 if (empty($config['empfaenger'])) {
     antwort(503, ['ok' => false, 'error' => 'Empfängeradresse ist noch nicht eingerichtet.']);
 }

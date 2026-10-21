@@ -6,8 +6,11 @@ ErrorDocument 404 /404.html
 
 <IfModule mod_rewrite.c>
   RewriteEngine On
-  # Arbeitsordner nicht ausliefern
-  RewriteRule ^(_original|tools)(/|$) - [F,L]
+  # Arbeitsordner, Git-Daten und Dokumentation nicht ausliefern
+  RewriteRule ^(_original|tools|deploy|\.git)(/|$) - [F,L]
+  RewriteRule ^\.git - [F,L]
+  RewriteRule ^[^/]+\.md$ - [F,L]
+  RewriteRule ^api/config(\.local)?\.php$ - [F,L]
   # Alte Jimdo-Adressen
   RewriteRule ^app/download/17046496824/ /assets/docs/Anmeldeformular_im_Park.pdf [R=301,L]
   RewriteRule ^j/privacy$ /j/privacy/ [R=301,L]

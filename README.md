@@ -46,7 +46,8 @@ Inhalte sind 1:1 vom Original übernommen: keine erfundenen Bewertungen, Preise,
 | `assets/fonts/` | Lokale Webfonts (SIL Open Font License) |
 | `assets/docs/Anmeldeformular_im_Park.pdf` | Original-PDF des Anmeldeformulars |
 | `assets/icons/`, `favicon.ico`, `site.webmanifest` | Favicons aus dem Logo-Emblem |
-| `api/anfrage.php`, `api/config.php` | Formularversand per E-Mail (PHP) |
+| `api/anfrage.php`, `api/config.php` | Formularversand per E-Mail (PHP); auf dem Server ergänzt `api/config.local.php` die Empfängeradresse (nicht im Git) |
+| `deploy/` | Server-Skripte: `install.sh` (Apache, PHP, Firewall, HTTPS), `update.sh`, `mail-setup.sh` |
 | `sitemap.xml`, `robots.txt`, `.htaccess` | SEO und Apache-Konfiguration inkl. Weiterleitungen alter Jimdo-Adressen |
 | `tools/content.py` | **Alle Inhalte** (Texte, Preise, Zeiten, Betriebsferien, AGB, Werdegang, News) |
 | `tools/build_pages.py` | Generator für alle Seiten, Sitemap, Manifest und `site-data.js` |
@@ -55,6 +56,12 @@ Inhalte sind 1:1 vom Original übernommen: keine erfundenen Bewertungen, Preise,
 | `tools/dev_server.py` | Lokaler Vorschau-Server, nimmt Formular-Sendungen testweise an |
 | `tools/check_links.py` | Prüft alle internen Links, Bilder und Anker |
 | `_original/` | **Sicherung der alten Website**: alle Seiten als HTML, Rohtexte, alle 132 Bilder in Originalgrösse, PDF |
+
+## Online stellen
+
+Schritt-für-Schritt-Anleitung für einen Ubuntu-22.04-Server mit HTTPS: **[DEPLOY.md](DEPLOY.md)**.
+Code auf GitHub: https://github.com/real-Schelzi/hundepension – Installation mit `deploy/install.sh`,
+Updates mit `deploy/update.sh`, E-Mail-Versand mit `deploy/mail-setup.sh`.
 
 ## Lokal ansehen
 
