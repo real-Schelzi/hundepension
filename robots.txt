@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /api/
+Disallow: /_original/
+Disallow: /tools/
+
+Sitemap: https://www.hundepension-im-park.ch/sitemap.xml

@@ -1,0 +1,14 @@
+# Sicherung der alten Jimdo-Seite (rund 234 MB) – bleibt nur lokal auf dem PC
+_original/
+
+# Testprotokoll des lokalen Formular-Servers
+tools/formular-test.log
+
+# Serverspezifische Einstellungen (E-Mail-Empfänger) – werden auf dem Server mit deploy/mail-setup.sh angelegt
+api/config.local.php
+
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+desktop.ini

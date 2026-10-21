@@ -1,0 +1,10 @@
+* text=auto
+*.sh   text eol=lf
+*.php  text eol=lf
+*.conf text eol=lf
+*.webp binary
+*.png  binary
+*.jpg  binary
+*.ico  binary
+*.woff2 binary
+*.pdf  binary

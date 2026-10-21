@@ -1,0 +1,1853 @@
+{
+ "images": {
+  "hintergrund": {
+   "w": 530,
+   "h": 530,
+   "widths": [
+    530
+   ],
+   "alt": "",
+   "page": "index"
+  },
+  "index-01": {
+   "w": 960,
+   "h": 720,
+   "widths": [
+    480,
+    960
+   ],
+   "alt": "Luftaufnahme der Villa mit Garten, weissem Pavillon und hohen Tannen",
+   "page": "index"
+  },
+  "ueber-mich-01": {
+   "w": 3264,
+   "h": 2448,
+   "widths": [
+    480,
+    960,
+    1600,
+    2000
+   ],
+   "alt": "Daniela Wulf mit drei Hunden auf einer Mauer im Grünen",
+   "page": "über-mich"
+  },
+  "unser-zuhause-01": {
+   "w": 2047,
+   "h": 1535,
+   "widths": [
+    480,
+    960,
+    1600,
+    2000
+   ],
+   "alt": "Luftaufnahme der Villa im Park mit Terrasse, Rasenflächen und altem Baumbestand",
+   "page": "unser-zuhause"
+  },
+  "unser-zuhause-02": {
+   "w": 3840,
+   "h": 2160,
+   "widths": [
+    480,
+    960,
+    1600,
+    2000
+   ],
+   "alt": "Garten im Frühling mit blühendem Baum, Lounge-Sesseln und Holzplattform unter dem Sonnensegel",
+   "page": "unser-zuhause"
+  },
+  "unser-zuhause-03": {
+   "w": 3024,
+   "h": 4032,
+   "widths": [
+    480,
+    960,
+    1500
+   ],
+   "alt": "Rasen mit Holzplattform und Sonnensegel vor hohen Bäumen",
+   "page": "unser-zuhause"
+  },
+  "unser-zuhause-04": {
+   "w": 3024,
+   "h": 4032,
+   "widths": [
+    480,
+    960,
+    1500
+   ],
+   "alt": "Sonnensegel über der Holzplattform, dahinter eine hohe Tanne",
+   "page": "unser-zuhause"
+  },
+  "unser-zuhause-05": {
+   "w": 3024,
+   "h": 4032,
+   "widths": [
+    480,
+    960,
+    1500
+   ],
+   "alt": "Heller Wintergarten mit grossem Holztisch und Sprossenfenstern",
+   "page": "unser-zuhause"
+  },
+  "unser-zuhause-06": {
+   "w": 4032,
+   "h": 3024,
+   "widths": [
+    480,
+    960,
+    1600,
+    2000
+   ],
+   "alt": "Zwei Hundehöhlen und Kissen in einem sonnigen Raum mit Fischgrätparkett",
+   "page": "unser-zuhause"
+  },
+  "unser-zuhause-07": {
+   "w": 2160,
+   "h": 3840,
+   "widths": [
+    480,
+    960,
+    1125
+   ],
+   "alt": "Hundehöhlen und Liegeplätze am Fenster",
+   "page": "unser-zuhause"
+  },
+  "unser-zuhause-08": {
+   "w": 3024,
+   "h": 4032,
+   "widths": [
+    480,
+    960,
+    1500
+   ],
+   "alt": "Kleiner Hund auf einem Bett mit Sternendecke",
+   "page": "unser-zuhause"
+  },
+  "unser-zuhause-09": {
+   "w": 4032,
+   "h": 3024,
+   "widths": [
+    480,
+    960,
+    1600,
+    2000
+   ],
+   "alt": "Kleiner Hund auf einem grossen Sternenkissen neben dem Ofen",
+   "page": "unser-zuhause"
+  },
+  "unser-zuhause-10": {
+   "w": 4032,
+   "h": 3024,
+   "widths": [
+    480,
+    960,
+    1600,
+    2000
+   ],
+   "alt": "Holzbank mit Kissen und Hundekörbchen",
+   "page": "unser-zuhause"
+  },
+  "unser-zuhause-11": {
+   "w": 4032,
+   "h": 3024,
+   "widths": [
+    480,
+    960,
+    1600,
+    2000
+   ],
+   "alt": "Mehrere Hundebetten unter einem grossen Fenster",
+   "page": "unser-zuhause"
+  },
+  "angebot-01": {
+   "w": 4032,
+   "h": 3024,
+   "widths": [
+    480,
+    960,
+    1600,
+    2000
+   ],
+   "alt": "Hunde-Rudel in der Sonne auf der Holzplattform im Garten",
+   "page": "angebot"
+  },
+  "rudel-01": {
+   "w": 1280,
+   "h": 960,
+   "widths": [
+    480,
+    960,
+    1280
+   ],
+   "alt": "Mabel kuschelt mit einem Plüschtier",
+   "page": "rudel",
+   "dog": "Mabel"
+  },
+  "rudel-02": {
+   "w": 4032,
+   "h": 3024,
+   "widths": [
+    480,
+    960,
+    1600,
+    2000
+   ],
+   "alt": "June schläft auf einer flauschigen Decke",
+   "page": "rudel",
+   "dog": "June"
+  },
+  "rudel-03": {
+   "w": 3024,
+   "h": 4032,
+   "widths": [
+    480,
+    960,
+    1500
+   ],
+   "alt": "Kiwi schaut aus einer Decke hervor",
+   "page": "rudel",
+   "dog": "Kiwi"
+  },
+  "rudel-04": {
+   "w": 4032,
+   "h": 3024,
+   "widths": [
+    480,
+    960,
+    1600,
+    2000
+   ],
+   "alt": "Chayu döst auf einem Kissen",
+   "page": "rudel",
+   "dog": "Chayu"
+  },
+  "rudel-05": {
+   "w": 4032,
+   "h": 3024,
+   "widths": [
+    480,
+    960,
+    1600,
+    2000
+   ],
+   "alt": "Anjani liegt auf einem Lammfell",
+   "page": "rudel",
+   "dog": "Anjani"
+  },
+  "rudel-06": {
+   "w": 3024,
+   "h": 4032,
+   "widths": [
+    480,
+    960,
+    1500
+   ],
+   "alt": "Asho sitzt draussen vor einem Gartentisch",
+   "page": "rudel",
+   "dog": "Asho"
+  },
+  "rudel-07": {
+   "w": 3024,
+   "h": 4032,
+   "widths": [
+    480,
+    960,
+    1500
+   ],
+   "alt": "Osay hat sich im Hundebett zusammengerollt",
+   "page": "rudel",
+   "dog": "Osay"
+  },
+  "rudel-08": {
+   "w": 1677,
+   "h": 2236,
+   "widths": [
+    480,
+    960,
+    1500
+   ],
+   "alt": "Schwarzer Hund liegt auf dem Parkett",
+   "page": "rudel"
+  },
+  "rudel-09": {
+   "w": 3024,
+   "h": 4032,
+   "widths": [
+    480,
+    960,
+    1500
+   ],
+   "alt": "Dunkler Hund mit Halsband im Garten",
+   "page": "rudel"
+  },
+  "rudel-10": {
+   "w": 960,
+   "h": 640,
+   "widths": [
+    480,
+    960
+   ],
+   "alt": "Zwei Möpse vor grauem Hintergrund",
+   "page": "rudel"
+  },
+  "rudel-11": {
+   "w": 3024,
+   "h": 4032,
+   "widths": [
+    480,
+    960,
+    1500
+   ],
+   "alt": "Brauner Hund schaut in die Kamera",
+   "page": "rudel"
+  },
+  "rudel-12": {
+   "w": 2707,
+   "h": 2030,
+   "widths": [
+    480,
+    960,
+    1600,
+    2000
+   ],
+   "alt": "Französische Bulldogge sitzt im Gras",
+   "page": "rudel"
+  },
+  "rudel-13": {
+   "w": 3024,
+   "h": 4032,
+   "widths": [
+    480,
+    960,
+    1500
+   ],
+   "alt": "Kleiner zotteliger Hund auf einem Teppich",
+   "page": "rudel"
+  },
+  "rudel-14": {
+   "w": 2412,
+   "h": 1357,
+   "widths": [
+    480,
+    960,
+    1600,
+    2000
+   ],
+   "alt": "Hund liegt entspannt im Gras",
+   "page": "rudel"
+  },
+  "rudel-15": {
+   "w": 1325,
+   "h": 2354,
+   "widths": [
+    480,
+    960,
+    1126
+   ],
+   "alt": "Schwarz-weisser Hund auf einem Baumstamm im Herbstlaub",
+   "page": "rudel"
+  },
+  "rudel-16": {
+   "w": 2537,
+   "h": 3384,
+   "widths": [
+    480,
+    960,
+    1499
+   ],
+   "alt": "Brauner Hund sitzt auf dem Kiesweg",
+   "page": "rudel"
+  },
+  "rudel-17": {
+   "w": 4032,
+   "h": 3024,
+   "widths": [
+    480,
+    960,
+    1600,
+    2000
+   ],
+   "alt": "Hund schläft auf dem Sofa",
+   "page": "rudel"
+  },
+  "rudel-18": {
+   "w": 2160,
+   "h": 3840,
+   "widths": [
+    480,
+    960,
+    1125
+   ],
+   "alt": "Mops in einem Körbchen",
+   "page": "rudel"
+  },
+  "rudel-19": {
+   "w": 1600,
+   "h": 1200,
+   "widths": [
+    480,
+    960,
+    1600
+   ],
+   "alt": "Heller Hund liegt auf einem Kuhfell",
+   "page": "rudel"
+  },
+  "rudel-20": {
+   "w": 4032,
+   "h": 3024,
+   "widths": [
+    480,
+    960,
+    1600,
+    2000
+   ],
+   "alt": "Grauer Mischling liegt im Gras",
+   "page": "rudel"
+  },
+  "rudel-21": {
+   "w": 3024,
+   "h": 4032,
+   "widths": [
+    480,
+    960,
+    1500
+   ],
+   "alt": "Kleiner schwarzer Hund im Garten",
+   "page": "rudel"
+  },
+  "rudel-22": {
+   "w": 666,
+   "h": 1184,
+   "widths": [
+    480,
+    666
+   ],
+   "alt": "Hund liegt auf Pflastersteinen",
+   "page": "rudel"
+  },
+  "rudel-23": {
+   "w": 3840,
+   "h": 2160,
+   "widths": [
+    480,
+    960,
+    1600,
+    2000
+   ],
+   "alt": "Hund schläft auf Holzschnitzeln",
+   "page": "rudel"
+  },
+  "rudel-24": {
+   "w": 1266,
+   "h": 1688,
+   "widths": [
+    480,
+    960,
+    1266
+   ],
+   "alt": "Schwarz-weisser Hund im Garten",
+   "page": "rudel"
+  },
+  "rudel-25": {
+   "w": 2160,
+   "h": 3840,
+   "widths": [
+    480,
+    960,
+    1125
+   ],
+   "alt": "Französische Bulldogge im Garten",
+   "page": "rudel"
+  },
+  "rudel-26": {
+   "w": 3037,
+   "h": 2279,
+   "widths": [
+    480,
+    960,
+    1600,
+    2000
+   ],
+   "alt": "Mops im Garten",
+   "page": "rudel"
+  },
+  "rudel-27": {
+   "w": 3024,
+   "h": 4032,
+   "widths": [
+    480,
+    960,
+    1500
+   ],
+   "alt": "Kleiner weisser Spitz auf der Terrasse",
+   "page": "rudel"
+  },
+  "rudel-28": {
+   "w": 4032,
+   "h": 3024,
+   "widths": [
+    480,
+    960,
+    1600,
+    2000
+   ],
+   "alt": "Zwei Hunde auf einem Lounge-Sofa im Garten",
+   "page": "rudel"
+  },
+  "rudel-29": {
+   "w": 4032,
+   "h": 3024,
+   "widths": [
+    480,
+    960,
+    1600,
+    2000
+   ],
+   "alt": "Zwei Hunde kuscheln in einem Hundebett",
+   "page": "rudel"
+  },
+  "rudel-30": {
+   "w": 4032,
+   "h": 3024,
+   "widths": [
+    480,
+    960,
+    1600,
+    2000
+   ],
+   "alt": "Kleiner Hund im Garten",
+   "page": "rudel"
+  },
+  "rudel-31": {
+   "w": 2160,
+   "h": 3840,
+   "widths": [
+    480,
+    960,
+    1125
+   ],
+   "alt": "Weisser Hund in einem Hundebett",
+   "page": "rudel"
+  },
+  "rudel-32": {
+   "w": 3024,
+   "h": 4032,
+   "widths": [
+    480,
+    960,
+    1500
+   ],
+   "alt": "Heller Hund im Garten",
+   "page": "rudel"
+  },
+  "rudel-33": {
+   "w": 4032,
+   "h": 3024,
+   "widths": [
+    480,
+    960,
+    1600,
+    2000
+   ],
+   "alt": "Hunde auf dem Lounge-Sofa im Garten",
+   "page": "rudel"
+  },
+  "rudel-34": {
+   "w": 3840,
+   "h": 2160,
+   "widths": [
+    480,
+    960,
+    1600,
+    2000
+   ],
+   "alt": "Hunde auf der Holzplattform",
+   "page": "rudel"
+  },
+  "rudel-35": {
+   "w": 4032,
+   "h": 3024,
+   "widths": [
+    480,
+    960,
+    1600,
+    2000
+   ],
+   "alt": "Hunde auf der Holzplattform im Garten",
+   "page": "rudel"
+  },
+  "rudel-36": {
+   "w": 3024,
+   "h": 4032,
+   "widths": [
+    480,
+    960,
+    1500
+   ],
+   "alt": "Hund steht auf einem Baumstamm",
+   "page": "rudel"
+  },
+  "rudel-37": {
+   "w": 3024,
+   "h": 4032,
+   "widths": [
+    480,
+    960,
+    1500
+   ],
+   "alt": "Hunde ruhen auf der Holzplattform unter dem Sonnensegel",
+   "page": "rudel"
+  },
+  "rudel-38": {
+   "w": 3024,
+   "h": 4032,
+   "widths": [
+    480,
+    960,
+    1500
+   ],
+   "alt": "Husky auf der Holzplattform",
+   "page": "rudel"
+  },
+  "rudel-39": {
+   "w": 4032,
+   "h": 3024,
+   "widths": [
+    480,
+    960,
+    1600,
+    2000
+   ],
+   "alt": "Hund auf einem grossen Kissen im Garten",
+   "page": "rudel"
+  },
+  "rudel-40": {
+   "w": 4032,
+   "h": 3024,
+   "widths": [
+    480,
+    960,
+    1600,
+    2000
+   ],
+   "alt": "Weisser Hund im Profil",
+   "page": "rudel"
+  },
+  "rudel-41": {
+   "w": 3024,
+   "h": 4032,
+   "widths": [
+    480,
+    960,
+    1500
+   ],
+   "alt": "Brauner Hund an der Leine im Wald",
+   "page": "rudel"
+  },
+  "rudel-42": {
+   "w": 3024,
+   "h": 4032,
+   "widths": [
+    480,
+    960,
+    1500
+   ],
+   "alt": "Zwei Hunde schlafen auf einer Decke",
+   "page": "rudel"
+  },
+  "rudel-43": {
+   "w": 3024,
+   "h": 4032,
+   "widths": [
+    480,
+    960,
+    1500
+   ],
+   "alt": "Zwei Hunde kuscheln auf einem Fell",
+   "page": "rudel"
+  },
+  "rudel-44": {
+   "w": 3024,
+   "h": 4032,
+   "widths": [
+    480,
+    960,
+    1500
+   ],
+   "alt": "Heller Hund liegt auf dem Parkett",
+   "page": "rudel"
+  },
+  "preise-01": {
+   "w": 859,
+   "h": 1200,
+   "widths": [
+    480,
+    859
+   ],
+   "alt": "Chihuahua",
+   "page": "preise"
+  },
+  "betriebsferien-01": {
+   "w": 1977,
+   "h": 2400,
+   "widths": [
+    480,
+    960,
+    1648
+   ],
+   "alt": "",
+   "page": "betriebsferien"
+  },
+  "impressionen-01": {
+   "w": 1280,
+   "h": 1706,
+   "widths": [
+    480,
+    960,
+    1280
+   ],
+   "alt": "Schäferhund und kleiner Hund auf einer Herbstwiese",
+   "page": "impressionen",
+   "cats": [
+    "unterwegs"
+   ]
+  },
+  "impressionen-02": {
+   "w": 1280,
+   "h": 1706,
+   "widths": [
+    480,
+    960,
+    1280
+   ],
+   "alt": "Zwei Hunde liegen auf dem Fliesenboden",
+   "page": "impressionen",
+   "cats": [
+    "drinnen"
+   ]
+  },
+  "impressionen-03": {
+   "w": 1706,
+   "h": 1280,
+   "widths": [
+    480,
+    960,
+    1706
+   ],
+   "alt": "Hund schläft auf einem Kissen",
+   "page": "impressionen",
+   "cats": [
+    "drinnen"
+   ]
+  },
+  "impressionen-04": {
+   "w": 1280,
+   "h": 1706,
+   "widths": [
+    480,
+    960,
+    1280
+   ],
+   "alt": "Chihuahua eingekuschelt in einer Decke",
+   "page": "impressionen",
+   "cats": [
+    "drinnen"
+   ]
+  },
+  "impressionen-05": {
+   "w": 1706,
+   "h": 1280,
+   "widths": [
+    480,
+    960,
+    1706
+   ],
+   "alt": "Zwei Hunde im Bach",
+   "page": "impressionen",
+   "cats": [
+    "unterwegs",
+    "wasser"
+   ]
+  },
+  "impressionen-06": {
+   "w": 1280,
+   "h": 1706,
+   "widths": [
+    480,
+    960,
+    1280
+   ],
+   "alt": "Weisser Hund im hohen Gras",
+   "page": "impressionen",
+   "cats": [
+    "unterwegs"
+   ]
+  },
+  "impressionen-07": {
+   "w": 1280,
+   "h": 1706,
+   "widths": [
+    480,
+    960,
+    1280
+   ],
+   "alt": "Hund steht im Wasser",
+   "page": "impressionen",
+   "cats": [
+    "unterwegs",
+    "wasser"
+   ]
+  },
+  "impressionen-08": {
+   "w": 1280,
+   "h": 1706,
+   "widths": [
+    480,
+    960,
+    1280
+   ],
+   "alt": "Kleiner Hund auf einer Holztreppe im Wald",
+   "page": "impressionen",
+   "cats": [
+    "unterwegs"
+   ]
+  },
+  "impressionen-09": {
+   "w": 1280,
+   "h": 1706,
+   "widths": [
+    480,
+    960,
+    1280
+   ],
+   "alt": "Drei kleine Hunde mit Mänteln im Schnee",
+   "page": "impressionen",
+   "cats": [
+    "winter"
+   ]
+  },
+  "impressionen-10": {
+   "w": 1280,
+   "h": 1706,
+   "widths": [
+    480,
+    960,
+    1280
+   ],
+   "alt": "Hund im Bach zwischen Schnee",
+   "page": "impressionen",
+   "cats": [
+    "winter",
+    "wasser"
+   ]
+  },
+  "impressionen-11": {
+   "w": 1706,
+   "h": 1280,
+   "widths": [
+    480,
+    960,
+    1706
+   ],
+   "alt": "Zwei kleine Hunde auf einem Kuhfell",
+   "page": "impressionen",
+   "cats": [
+    "drinnen"
+   ]
+  },
+  "impressionen-12": {
+   "w": 1706,
+   "h": 1280,
+   "widths": [
+    480,
+    960,
+    1706
+   ],
+   "alt": "Hunde auf einer weiten Wiese",
+   "page": "impressionen",
+   "cats": [
+    "unterwegs"
+   ]
+  },
+  "impressionen-13": {
+   "w": 1706,
+   "h": 1280,
+   "widths": [
+    480,
+    960,
+    1706
+   ],
+   "alt": "Zwei Hunde kuscheln auf einer Decke",
+   "page": "impressionen",
+   "cats": [
+    "drinnen"
+   ]
+  },
+  "impressionen-14": {
+   "w": 1280,
+   "h": 1706,
+   "widths": [
+    480,
+    960,
+    1280
+   ],
+   "alt": "Zwei Hunde an einem Bach",
+   "page": "impressionen",
+   "cats": [
+    "unterwegs",
+    "wasser"
+   ]
+  },
+  "impressionen-15": {
+   "w": 1706,
+   "h": 1280,
+   "widths": [
+    480,
+    960,
+    1706
+   ],
+   "alt": "Zwei Hunde auf einer Wiese",
+   "page": "impressionen",
+   "cats": [
+    "unterwegs"
+   ]
+  },
+  "impressionen-16": {
+   "w": 1706,
+   "h": 1280,
+   "widths": [
+    480,
+    960,
+    1706
+   ],
+   "alt": "Kleine Hunde auf einem Waldweg",
+   "page": "impressionen",
+   "cats": [
+    "unterwegs"
+   ]
+  },
+  "impressionen-17": {
+   "w": 1280,
+   "h": 1706,
+   "widths": [
+    480,
+    960,
+    1280
+   ],
+   "alt": "Hunde auf einem Holzsteg im Wald",
+   "page": "impressionen",
+   "cats": [
+    "unterwegs"
+   ]
+  },
+  "impressionen-18": {
+   "w": 1280,
+   "h": 1706,
+   "widths": [
+    480,
+    960,
+    1280
+   ],
+   "alt": "Kleine Hunde auf einem Waldweg im Herbst",
+   "page": "impressionen",
+   "cats": [
+    "unterwegs"
+   ]
+  },
+  "impressionen-19": {
+   "w": 1280,
+   "h": 1706,
+   "widths": [
+    480,
+    960,
+    1280
+   ],
+   "alt": "Chihuahua im hohen Gras",
+   "page": "impressionen",
+   "cats": [
+    "unterwegs"
+   ]
+  },
+  "impressionen-20": {
+   "w": 1280,
+   "h": 1706,
+   "widths": [
+    480,
+    960,
+    1280
+   ],
+   "alt": "Kleiner Hund auf einem Waldpfad",
+   "page": "impressionen",
+   "cats": [
+    "unterwegs"
+   ]
+  },
+  "impressionen-21": {
+   "w": 1280,
+   "h": 1706,
+   "widths": [
+    480,
+    960,
+    1280
+   ],
+   "alt": "Zwei Hunde spielen miteinander",
+   "page": "impressionen",
+   "cats": [
+    "drinnen"
+   ]
+  },
+  "impressionen-22": {
+   "w": 1706,
+   "h": 1280,
+   "widths": [
+    480,
+    960,
+    1706
+   ],
+   "alt": "Zwei Hunde liegen unter einem Tisch",
+   "page": "impressionen",
+   "cats": [
+    "drinnen"
+   ]
+  },
+  "impressionen-23": {
+   "w": 1280,
+   "h": 1280,
+   "widths": [
+    480,
+    960,
+    1280
+   ],
+   "alt": "Kleine Hunde unterwegs auf dem Spaziergang",
+   "page": "impressionen",
+   "cats": [
+    "unterwegs"
+   ]
+  },
+  "impressionen-24": {
+   "w": 3264,
+   "h": 2448,
+   "widths": [
+    480,
+    960,
+    1600,
+    2000
+   ],
+   "alt": "Hunde auf einer Waldwiese",
+   "page": "impressionen",
+   "cats": [
+    "unterwegs"
+   ]
+  },
+  "impressionen-25": {
+   "w": 3264,
+   "h": 2448,
+   "widths": [
+    480,
+    960,
+    1600,
+    2000
+   ],
+   "alt": "Hunde am Bach im Wald",
+   "page": "impressionen",
+   "cats": [
+    "unterwegs",
+    "wasser"
+   ]
+  },
+  "impressionen-26": {
+   "w": 3264,
+   "h": 2448,
+   "widths": [
+    480,
+    960,
+    1600,
+    2000
+   ],
+   "alt": "Drei kleine Hunde auf dem Waldweg",
+   "page": "impressionen",
+   "cats": [
+    "unterwegs"
+   ]
+  },
+  "impressionen-27": {
+   "w": 3264,
+   "h": 2448,
+   "widths": [
+    480,
+    960,
+    1600,
+    2000
+   ],
+   "alt": "Hund schläft auf einem Hundekissen",
+   "page": "impressionen",
+   "cats": [
+    "drinnen"
+   ]
+  },
+  "impressionen-28": {
+   "w": 3264,
+   "h": 2448,
+   "widths": [
+    480,
+    960,
+    1600,
+    2000
+   ],
+   "alt": "Westie und Mischling auf dem Sofa",
+   "page": "impressionen",
+   "cats": [
+    "drinnen"
+   ]
+  },
+  "impressionen-29": {
+   "w": 2448,
+   "h": 3264,
+   "widths": [
+    480,
+    960,
+    1500
+   ],
+   "alt": "Drei Hunde an der Leine auf einem Kiesweg",
+   "page": "impressionen",
+   "cats": [
+    "unterwegs"
+   ]
+  },
+  "impressionen-30": {
+   "w": 3264,
+   "h": 2448,
+   "widths": [
+    480,
+    960,
+    1600,
+    2000
+   ],
+   "alt": "Französische Bulldogge auf einer Wiese",
+   "page": "impressionen",
+   "cats": [
+    "unterwegs"
+   ]
+  },
+  "impressionen-31": {
+   "w": 3264,
+   "h": 2448,
+   "widths": [
+    480,
+    960,
+    1600,
+    2000
+   ],
+   "alt": "Vier Hunde warten vor der Haustür",
+   "page": "impressionen",
+   "cats": [
+    "park"
+   ]
+  },
+  "impressionen-32": {
+   "w": 3264,
+   "h": 2448,
+   "widths": [
+    480,
+    960,
+    1600,
+    2000
+   ],
+   "alt": "Hunde auf einem Waldweg im Herbst",
+   "page": "impressionen",
+   "cats": [
+    "unterwegs"
+   ]
+  },
+  "impressionen-33": {
+   "w": 3264,
+   "h": 2448,
+   "widths": [
+    480,
+    960,
+    1600,
+    2000
+   ],
+   "alt": "Hunde am Waldrand",
+   "page": "impressionen",
+   "cats": [
+    "unterwegs"
+   ]
+  },
+  "impressionen-34": {
+   "w": 3264,
+   "h": 2448,
+   "widths": [
+    480,
+    960,
+    1600,
+    2000
+   ],
+   "alt": "Hunde ruhen auf dem Sofa",
+   "page": "impressionen",
+   "cats": [
+    "drinnen"
+   ]
+  },
+  "impressionen-35": {
+   "w": 3264,
+   "h": 2448,
+   "widths": [
+    480,
+    960,
+    1600,
+    2000
+   ],
+   "alt": "Zwei Hunde im Eingangsbereich",
+   "page": "impressionen",
+   "cats": [
+    "drinnen"
+   ]
+  },
+  "impressionen-36": {
+   "w": 3264,
+   "h": 2448,
+   "widths": [
+    480,
+    960,
+    1600,
+    2000
+   ],
+   "alt": "Hund liegt auf dem Fliesenboden",
+   "page": "impressionen",
+   "cats": [
+    "drinnen"
+   ]
+  },
+  "impressionen-37": {
+   "w": 2448,
+   "h": 2448,
+   "widths": [
+    480,
+    960,
+    1600,
+    2000
+   ],
+   "alt": "Hunde unter hohen Bäumen",
+   "page": "impressionen",
+   "cats": [
+    "park"
+   ]
+  },
+  "impressionen-38": {
+   "w": 3264,
+   "h": 2448,
+   "widths": [
+    480,
+    960,
+    1600,
+    2000
+   ],
+   "alt": "Hunde schlafen auf dem Sofa",
+   "page": "impressionen",
+   "cats": [
+    "drinnen"
+   ]
+  },
+  "impressionen-39": {
+   "w": 3264,
+   "h": 2448,
+   "widths": [
+    480,
+    960,
+    1600,
+    2000
+   ],
+   "alt": "Airedale Terrier und Chihuahua auf einer Decke",
+   "page": "impressionen",
+   "cats": [
+    "drinnen"
+   ]
+  },
+  "impressionen-40": {
+   "w": 2448,
+   "h": 3264,
+   "widths": [
+    480,
+    960,
+    1500
+   ],
+   "alt": "Zwei Hunde auf dem Parkett",
+   "page": "impressionen",
+   "cats": [
+    "drinnen"
+   ]
+  },
+  "impressionen-41": {
+   "w": 3264,
+   "h": 2448,
+   "widths": [
+    480,
+    960,
+    1600,
+    2000
+   ],
+   "alt": "Hunde kuscheln auf dem Sofa",
+   "page": "impressionen",
+   "cats": [
+    "drinnen"
+   ]
+  },
+  "impressionen-42": {
+   "w": 2448,
+   "h": 3264,
+   "widths": [
+    480,
+    960,
+    1500
+   ],
+   "alt": "Zwei Hunde spielen auf dem Parkett",
+   "page": "impressionen",
+   "cats": [
+    "drinnen"
+   ]
+  },
+  "impressionen-43": {
+   "w": 1823,
+   "h": 2741,
+   "widths": [
+    480,
+    960,
+    1330
+   ],
+   "alt": "Hund liegt auf einem Kissen",
+   "page": "impressionen",
+   "cats": [
+    "drinnen"
+   ]
+  },
+  "impressionen-44": {
+   "w": 2448,
+   "h": 3264,
+   "widths": [
+    480,
+    960,
+    1500
+   ],
+   "alt": "Zwei Hunde auf einem Kuhfell",
+   "page": "impressionen",
+   "cats": [
+    "drinnen"
+   ]
+  },
+  "impressionen-45": {
+   "w": 2448,
+   "h": 3264,
+   "widths": [
+    480,
+    960,
+    1500
+   ],
+   "alt": "Zwei Hunde kuscheln im Hundebett",
+   "page": "impressionen",
+   "cats": [
+    "drinnen"
+   ]
+  },
+  "impressionen-46": {
+   "w": 2160,
+   "h": 3840,
+   "widths": [
+    480,
+    960,
+    1125
+   ],
+   "alt": "Hund im Wasser",
+   "page": "impressionen",
+   "cats": [
+    "wasser"
+   ]
+  },
+  "impressionen-47": {
+   "w": 4032,
+   "h": 3024,
+   "widths": [
+    480,
+    960,
+    1600,
+    2000
+   ],
+   "alt": "Dogge und kleiner Hund im Park",
+   "page": "impressionen",
+   "cats": [
+    "park"
+   ]
+  },
+  "impressionen-48": {
+   "w": 4032,
+   "h": 3024,
+   "widths": [
+    480,
+    960,
+    1600,
+    2000
+   ],
+   "alt": "Hunde auf dem Lounge-Sofa im Garten",
+   "page": "impressionen",
+   "cats": [
+    "park"
+   ]
+  },
+  "impressionen-49": {
+   "w": 4032,
+   "h": 3024,
+   "widths": [
+    480,
+    960,
+    1600,
+    2000
+   ],
+   "alt": "Mops und weitere Hunde im Park",
+   "page": "impressionen",
+   "cats": [
+    "park"
+   ]
+  },
+  "impressionen-50": {
+   "w": 3024,
+   "h": 4032,
+   "widths": [
+    480,
+    960,
+    1500
+   ],
+   "alt": "Mops und kleiner Hund im Haus",
+   "page": "impressionen",
+   "cats": [
+    "drinnen"
+   ]
+  },
+  "impressionen-51": {
+   "w": 3024,
+   "h": 4032,
+   "widths": [
+    480,
+    960,
+    1500
+   ],
+   "alt": "Zwei Möpse im Hundebett",
+   "page": "impressionen",
+   "cats": [
+    "drinnen"
+   ]
+  },
+  "impressionen-52": {
+   "w": 4032,
+   "h": 3024,
+   "widths": [
+    480,
+    960,
+    1600,
+    2000
+   ],
+   "alt": "Zwei Möpse spielen im Garten",
+   "page": "impressionen",
+   "cats": [
+    "park"
+   ]
+  },
+  "impressionen-53": {
+   "w": 3024,
+   "h": 4032,
+   "widths": [
+    480,
+    960,
+    1500
+   ],
+   "alt": "Hunde im Schnee",
+   "page": "impressionen",
+   "cats": [
+    "winter"
+   ]
+  },
+  "impressionen-54": {
+   "w": 4032,
+   "h": 3024,
+   "widths": [
+    480,
+    960,
+    1600,
+    2000
+   ],
+   "alt": "Hunde sonnen sich auf dem Lounge-Sofa",
+   "page": "impressionen",
+   "cats": [
+    "park"
+   ]
+  },
+  "impressionen-55": {
+   "w": 3024,
+   "h": 4032,
+   "widths": [
+    480,
+    960,
+    1500
+   ],
+   "alt": "Hunde auf dem Gartenweg",
+   "page": "impressionen",
+   "cats": [
+    "park"
+   ]
+  },
+  "impressionen-56": {
+   "w": 3024,
+   "h": 4032,
+   "widths": [
+    480,
+    960,
+    1500
+   ],
+   "alt": "Rudel im Garten",
+   "page": "impressionen",
+   "cats": [
+    "park"
+   ]
+  },
+  "impressionen-57": {
+   "w": 4032,
+   "h": 3024,
+   "widths": [
+    480,
+    960,
+    1600,
+    2000
+   ],
+   "alt": "Rudel auf der Wiese im Park",
+   "page": "impressionen",
+   "cats": [
+    "park"
+   ]
+  },
+  "impressionen-58": {
+   "w": 4032,
+   "h": 3024,
+   "widths": [
+    480,
+    960,
+    1600,
+    2000
+   ],
+   "alt": "Rudel auf der Wiese im Park",
+   "page": "impressionen",
+   "cats": [
+    "park"
+   ]
+  },
+  "impressionen-59": {
+   "w": 4032,
+   "h": 3024,
+   "widths": [
+    480,
+    960,
+    1600,
+    2000
+   ],
+   "alt": "Hund liegt ausgestreckt auf dem Parkett",
+   "page": "impressionen",
+   "cats": [
+    "drinnen"
+   ]
+  },
+  "impressionen-60": {
+   "w": 4032,
+   "h": 3024,
+   "widths": [
+    480,
+    960,
+    1600,
+    2000
+   ],
+   "alt": "Hunde eingekuschelt in einer Decke",
+   "page": "impressionen",
+   "cats": [
+    "drinnen"
+   ]
+  },
+  "impressionen-61": {
+   "w": 3024,
+   "h": 4032,
+   "widths": [
+    480,
+    960,
+    1500
+   ],
+   "alt": "Drei Hunde vor der Haustür",
+   "page": "impressionen",
+   "cats": [
+    "park"
+   ]
+  },
+  "impressionen-62": {
+   "w": 4032,
+   "h": 3024,
+   "widths": [
+    480,
+    960,
+    1600,
+    2000
+   ],
+   "alt": "Hunde auf dem Sofa im Wohnzimmer",
+   "page": "impressionen",
+   "cats": [
+    "drinnen"
+   ]
+  },
+  "impressionen-63": {
+   "w": 3024,
+   "h": 4032,
+   "widths": [
+    480,
+    960,
+    1500
+   ],
+   "alt": "Hund am Wasser im Garten",
+   "page": "impressionen",
+   "cats": [
+    "park",
+    "wasser"
+   ]
+  },
+  "impressionen-64": {
+   "w": 3024,
+   "h": 4032,
+   "widths": [
+    480,
+    960,
+    1500
+   ],
+   "alt": "Hunde im Garten",
+   "page": "impressionen",
+   "cats": [
+    "park"
+   ]
+  },
+  "impressionen-65": {
+   "w": 3024,
+   "h": 4032,
+   "widths": [
+    480,
+    960,
+    1500
+   ],
+   "alt": "Hunde im Garten",
+   "page": "impressionen",
+   "cats": [
+    "park"
+   ]
+  },
+  "impressionen-66": {
+   "w": 3024,
+   "h": 4032,
+   "widths": [
+    480,
+    960,
+    1500
+   ],
+   "alt": "Hund an einer Mauer am Wasser",
+   "page": "impressionen",
+   "cats": [
+    "wasser"
+   ]
+  },
+  "impressionen-67": {
+   "w": 3024,
+   "h": 4032,
+   "widths": [
+    480,
+    960,
+    1500
+   ],
+   "alt": "Husky auf einer Steinmauer im Garten",
+   "page": "impressionen",
+   "cats": [
+    "park"
+   ]
+  },
+  "news-01": {
+   "w": 4032,
+   "h": 3024,
+   "widths": [
+    480,
+    960,
+    1600,
+    2000
+   ],
+   "alt": "Garten im Frühling mit blühendem Baum und Sonnensegel",
+   "page": "news"
+  },
+  "news-02": {
+   "w": 4032,
+   "h": 3024,
+   "widths": [
+    480,
+    960,
+    1600,
+    2000
+   ],
+   "alt": "Hunde auf dem neuen erhöhten Liegeplatz aus Holz",
+   "page": "news"
+  },
+  "news-03": {
+   "w": 4032,
+   "h": 3024,
+   "widths": [
+    480,
+    960,
+    1600,
+    2000
+   ],
+   "alt": "Der neue Liegeplatz unter dem Sonnensegel",
+   "page": "news"
+  },
+  "logo": {
+   "w": 1331,
+   "h": 551,
+   "alt": "Hundepension im Park – Betreuung mit Herz"
+  },
+  "emblem": {
+   "w": 572,
+   "h": 547
+  }
+ },
+ "categories": {
+  "park": "Im Park",
+  "unterwegs": "Unterwegs",
+  "wasser": "Am Wasser",
+  "drinnen": "Drinnen",
+  "winter": "Winter"
+ },
+ "impressionen": [
+  "impressionen-01",
+  "impressionen-02",
+  "impressionen-03",
+  "impressionen-04",
+  "impressionen-05",
+  "impressionen-06",
+  "impressionen-07",
+  "impressionen-08",
+  "impressionen-09",
+  "impressionen-10",
+  "impressionen-11",
+  "impressionen-12",
+  "impressionen-13",
+  "impressionen-14",
+  "impressionen-15",
+  "impressionen-16",
+  "impressionen-17",
+  "impressionen-18",
+  "impressionen-19",
+  "impressionen-20",
+  "impressionen-21",
+  "impressionen-22",
+  "impressionen-23",
+  "impressionen-24",
+  "impressionen-25",
+  "impressionen-26",
+  "impressionen-27",
+  "impressionen-28",
+  "impressionen-29",
+  "impressionen-30",
+  "impressionen-31",
+  "impressionen-32",
+  "impressionen-33",
+  "impressionen-34",
+  "impressionen-35",
+  "impressionen-36",
+  "impressionen-37",
+  "impressionen-38",
+  "impressionen-39",
+  "impressionen-40",
+  "impressionen-41",
+  "impressionen-42",
+  "impressionen-43",
+  "impressionen-44",
+  "impressionen-45",
+  "impressionen-46",
+  "impressionen-47",
+  "impressionen-48",
+  "impressionen-49",
+  "impressionen-50",
+  "impressionen-51",
+  "impressionen-52",
+  "impressionen-53",
+  "impressionen-54",
+  "impressionen-55",
+  "impressionen-56",
+  "impressionen-57",
+  "impressionen-58",
+  "impressionen-59",
+  "impressionen-60",
+  "impressionen-61",
+  "impressionen-62",
+  "impressionen-63",
+  "impressionen-64",
+  "impressionen-65",
+  "impressionen-66",
+  "impressionen-67"
+ ],
+ "rudel_eigene": [
+  "rudel-01",
+  "rudel-02",
+  "rudel-03",
+  "rudel-04",
+  "rudel-05",
+  "rudel-06",
+  "rudel-07"
+ ],
+ "rudel_gaeste": [
+  "rudel-08",
+  "rudel-09",
+  "rudel-10",
+  "rudel-11",
+  "rudel-12",
+  "rudel-13",
+  "rudel-14",
+  "rudel-15",
+  "rudel-16",
+  "rudel-17",
+  "rudel-18",
+  "rudel-19",
+  "rudel-20",
+  "rudel-21",
+  "rudel-22",
+  "rudel-23",
+  "rudel-24",
+  "rudel-25",
+  "rudel-26",
+  "rudel-27",
+  "rudel-28",
+  "rudel-29",
+  "rudel-30",
+  "rudel-31",
+  "rudel-32",
+  "rudel-33",
+  "rudel-34",
+  "rudel-35",
+  "rudel-36",
+  "rudel-37",
+  "rudel-38",
+  "rudel-39",
+  "rudel-40",
+  "rudel-41",
+  "rudel-42",
+  "rudel-43",
+  "rudel-44"
+ ],
+ "zuhause": [
+  "unser-zuhause-01",
+  "unser-zuhause-02",
+  "unser-zuhause-03",
+  "unser-zuhause-04",
+  "unser-zuhause-05",
+  "unser-zuhause-06",
+  "unser-zuhause-07",
+  "unser-zuhause-08",
+  "unser-zuhause-09",
+  "unser-zuhause-10",
+  "unser-zuhause-11"
+ ]
+}
